@@ -1,13 +1,3 @@
-
-# Hi, I'm Hitesh Goswami 👋
-
-### Aspiring Data Analyst | MBA in Marketing & Business Analytics
-
-
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Hitesh Goswami - Aspiring Data Analyst" />
-</p>
-
 # Hi, I'm Hitesh Goswami 👋
 
 Aspiring Data Analyst | MBA Graduate
