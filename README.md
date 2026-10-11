@@ -1,10 +1,5 @@
 # Hi, I'm Hitesh Goswami 👋
 
-
-<p align="center">
-  <img src="github-banner.png" width="100%" alt="Personal GitHub profile banner">
-</p>
-
 Aspiring Data Analyst | MBA Graduate
 
 I'm an MBA graduate passionate about exploring data, discovering meaningful insights, and helping businesses make better decisions through data-driven analysis.
