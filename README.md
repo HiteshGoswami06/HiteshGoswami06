@@ -3,6 +3,15 @@
 
 ### Aspiring Data Analyst | MBA in Marketing & Business Analytics
 
+
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Hitesh Goswami - Aspiring Data Analyst" />
+</p>
+
+# Hi, I'm Hitesh Goswami 👋
+
+Aspiring Data Analyst | MBA Graduate
+
 I'm an MBA graduate passionate about exploring data, discovering meaningful insights, and helping businesses make better decisions through data-driven analysis.
 
 I'm currently developing my skills in data analytics and building practical projects to strengthen my analytical and problem-solving abilities.
